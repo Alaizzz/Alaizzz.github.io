@@ -1,0 +1,43 @@
+<html>
+<head>
+<titleAalishanWebPage</title>
+<body>
+<h1><center><Font Face="MonoSpace"><Font Color="#03a1fc">Aalishan</font></h1>
+<center><img src="Alaizzz.jpg" height="250">
+<h2><center><Font Face="MonoSpace"><Font Color="#0324fc">Education and Interests</font></h2>
+<p><center><Font Face="Comic Sans MS"><Font Color="#741dde">I am in 7th grade,and studying 7 different subjects.<br>
+My favourite subjects are Science and Computer because they're very interesting and fun.<br>
+My Interests are in Computer-Science,Biology,ESports,Business,and Game-Developing.<br>
+As I said before,my favourite subjects are Computer and Science,so thats why my interests are in Biology and Computer-Science.<br>
+And as for ESports,Ive always watched ESports tournaments growing up,<br>
+so thats why I also have and Interest on ESports.</font></p> 
+<h2><center><Font Face="MonoSpace"><Font Color="#231dde">Hobbies</font></h2>
+<p><center><Font Face="Comic Sans MS"><Font Color="#741dde">My Hobbies are to play Football,Video-Games,to learn new things,<br>
+and to cook,to watch TVshows and to Internet-Surf.Its great to be involved in some Physical activities,like Cooking,Playing Sports,<br>
+and in various other things,and about My Hobbies about Internet-Surfing and Playing Video-Games,its good to learn about more things,<br>
+so Internet-Surfing is an awesome way to do that.Last of all about playing Video-Games,I personally enjoy playing Video-Games alot,<br>
+so I sometimes spend a lot of time playing Video-Games.
+
+<h2><center><Font Face="MonoSpace"><Font Color="#231dde">Career Ambition</font></h2>
+<p><center><Font Face="Comic Sans MS"><Font Color="#741dde">I want to be a Game-Developer,Businessman,or even a Professional ESports Player.<br>
+I always had a sharp mind about selling,buying and making profit out of things,so I do have an Ambition of becoming a potential Businessman.<br>
+As for becoming a potential Game-Developer,I always wanted to learn about how to develop games,so thats also an Ambition of mine.<br>
+Last of all,for becoming a potential Professinal ESports Player,I always enjoyed playing different types of Video-Games,so I really look forward to this Ambition.</font></p>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
